@@ -1,9 +1,16 @@
 {
   "name": "use-ref-proxy",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "useRefProxy is a react hook used in ref elements to access the ref object props directly",
   "main": "index.js",
   "dependencies": {
     "react": "^17.0.2"
-  }
+  },
+  "keywords": [
+    "hooks",
+    "ref",
+    "proxy",
+    "use-ref-proxy",
+    "useRefProxy",
+  ]
 }
